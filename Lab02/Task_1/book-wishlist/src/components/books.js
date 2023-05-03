@@ -1,0 +1,32 @@
+export default [
+    {
+        isbn: "979-8361579280",
+        name: "C++: 2 books in 1",
+        category: "Programming",
+        image: "https://m.media-amazon.com/images/I/61FTxQobUKL.jpg",
+        noOfPages: 254,
+        author: "Mark Reed",
+        price: 40,
+        quantity: 1
+    },
+    {
+        isbn: "978-0999081419",
+        name: "The Complete Software Developer's Career Guide",
+        category: "Software Engineering",
+        image: "https://m.media-amazon.com/images/I/71Tg5bFZrqL.jpg",
+        noOfPages: 796,
+        author: "John Sonmez",
+        price: 30,
+        quantity: 1
+    },
+    {
+        isbn: "978-0999081440",
+        name: "Soft Skills: The Software Developer's Life Manual",
+        category: "Soft Skills",
+        image: "https://m.media-amazon.com/images/I/61CsleWC4-L.jpg",
+        noOfPages: 45,
+        author: "John Sonmez",
+        price: 25,
+        quantity: 1
+    }
+]
